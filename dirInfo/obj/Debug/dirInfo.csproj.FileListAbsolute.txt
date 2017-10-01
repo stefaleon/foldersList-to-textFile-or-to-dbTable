@@ -1,0 +1,20 @@
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.csprojResolveAssemblyReference.cache
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.Form1.resources
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.Properties.Resources.resources
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.csproj.GenerateResource.Cache
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.csproj.CoreCompileInputs.cache
+C:\Users\maimous\Desktop\dirInfo\dirInfo\bin\Debug\dirInfo.exe.config
+C:\Users\maimous\Desktop\dirInfo\dirInfo\bin\Debug\dirInfo.exe
+C:\Users\maimous\Desktop\dirInfo\dirInfo\bin\Debug\dirInfo.pdb
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.exe
+C:\Users\maimous\Desktop\dirInfo\dirInfo\obj\Debug\dirInfo.pdb
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\bin\Debug\dirInfo.exe.config
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\bin\Debug\dirInfo.exe
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\bin\Debug\dirInfo.pdb
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.csprojResolveAssemblyReference.cache
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.Form1.resources
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.Properties.Resources.resources
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.csproj.GenerateResource.Cache
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.csproj.CoreCompileInputs.cache
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.exe
+C:\Users\maimous\Desktop\dirInfo Display SubFolders\dirInfo\obj\Debug\dirInfo.pdb
